@@ -2,7 +2,8 @@
 ## DAW
 esta es la prueba para ver como funciona
 - nose
-<img width="1800" height="1013" alt="image" src="https://github.com/user-attachments/assets/ac12a049-29c6-4e52-bc91-5c03f08f5999" />
+- <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/745d05ca-4a46-472d-b818-151642a4f2e9" />
+
 | lunes | martes |
 | :-- | :--: |
 | futbol | ingles |
